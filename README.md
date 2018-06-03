@@ -1,0 +1,2 @@
+# ciwabot
+Scriptnya abalabal
